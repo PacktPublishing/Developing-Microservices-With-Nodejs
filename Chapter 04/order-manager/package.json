@@ -1,0 +1,26 @@
+{
+  "name": "emailing",
+  "version": "1.0.0",
+  "description": "Emailing sub-system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgonzalez/chapter4"
+  },
+  "keywords": [
+    "microservices",
+    "emailing"
+  ],
+  "author": "David Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgonzalez/chapter4/issues"
+  },
+  "homepage": "https://github.com/dgonzalez/chapter4",
+  "dependencies": {
+    "seneca": "^0.8.0"
+  }
+}

@@ -23,6 +23,6 @@
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
-    "seneca": "^0.8.0"
+    "seneca": "^3.17.0"
   }
 }

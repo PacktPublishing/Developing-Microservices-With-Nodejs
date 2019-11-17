@@ -23,6 +23,6 @@
   "dependencies": {
     "mandrill-api": "^1.0.45",
     "nodemailer": "^1.10.0",
-    "seneca": "^0.8.0"
+    "seneca": "^3.17.0"
   }
 }

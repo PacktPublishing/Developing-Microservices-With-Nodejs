@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/dgonzalez/chapter4",
   "dependencies": {
-    "seneca": "^0.8.0"
+    "seneca": "^3.17.0"
   }
 }

@@ -9,3 +9,7 @@ In order to follow this book, we are going to need to install Node.js, PM2 (it i
 * [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781783287314)
 * [Mastering Node.js](https://www.packtpub.com/web-development/mastering-nodejs?utm_source=github&utm_medium=repository&utm_campaign=9781782166320)
 * [Node.js Blueprints](https://www.packtpub.com/web-development/nodejs-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781783287338)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785887406">https://packt.link/free-ebook/9781785887406 </a> </p>
